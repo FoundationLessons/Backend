@@ -1,0 +1,10 @@
+{
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^5.0.0",
+    "nodemon": "^3.0.1",
+    "react-icons": "^4.10.1",
+    "react-router-dom": "^6.15.0",
+    "styled-components": "^6.0.7"
+  }
+}
